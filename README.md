@@ -36,6 +36,7 @@ Auth0 helps you to:
 ## Author
 
 Denny Segura <dev.dennysegura@gmail.com>
+Ian Njuguna <njugugnaayan@gmail.com>
 
 This readme based on [react-native-auth0](https://github.com/auth0/react-native-auth0)
 
